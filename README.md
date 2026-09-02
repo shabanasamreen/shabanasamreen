@@ -136,16 +136,6 @@ Always exploring new technologies and experimenting with different tools and ide
 
 ---
 
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabanasamreen&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&area_color=6C63FF&hide_border=true&custom_title=Shabana%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 📌 My Interests
 
 <table align="center">
