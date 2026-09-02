@@ -1,21 +1,257 @@
-<h1 align="center">Hi 👋, I'm shabana samreen</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabanasamreen&label=Profile%20views&color=0e75b6&style=flat" alt="shabanasamreen" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:EC4899&height=220&section=header&text=Shabana%20Samreen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabanasamreen" alt="shabanasamreen" /></a> </p>
+# 👋 Hi, I'm Shabana Samreen
 
-- 📫 How to reach me **shabanasamreen12@gmail.com**
+### 💻 Passionate Software Developer from India 🇮🇳
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shabanasamreen&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/shabanasamreen?label=Followers&style=for-the-badge&color=EC4899" alt="Followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabanasamreen&show_icons=true&locale=en&layout=compact" alt="shabanasamreen" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabanasamreen&show_icons=true&locale=en" alt="shabanasamreen" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabanasamreen&" alt="shabanasamreen" /></p>
+<table align="center">
+<tr>
+<td>
+
+👋 Hi, I'm **Shabana Samreen**  
+💻 Software Developer  
+🇮🇳 Based in India  
+🧠 Passionate about Problem Solving  
+🐍 Python & Java Enthusiast  
+📊 Exploring Data & Machine Learning  
+🚀 Always Learning & Building  
+
+</td>
+</tr>
+</table>
+
+I'm a passionate Software Developer who enjoys creating practical solutions, solving problems, and learning new technologies.
+
+I believe in continuous growth and love turning ideas into clean, functional, and meaningful software.
+
+---
+
+## 🎯 Currently Focused On
+
+- 💻 Strengthening my software development skills
+- 🐍 Improving my Python programming
+- ☕ Building stronger Java fundamentals
+- 📊 Exploring Data Analysis
+- 🤖 Learning Machine Learning
+- 🧠 Improving Data Structures & Algorithms
+- 🚀 Building real-world projects
+
+### 💜 Code. Learn. Build. Improve. Repeat.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
+</p>
+
+### 🗄️ Database & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Software Development
+
+Building clean, efficient, and maintainable software while continuously improving my programming skills.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🤖 Data & Machine Learning
+
+Exploring data analysis, visualization, and machine learning to turn data into meaningful insights.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Problem Solving
+
+Enjoy solving programming challenges and improving algorithms, logic, and computational thinking.
+
+</td>
+
+<td align="center" width="50%">
+
+### 📚 Continuous Learning
+
+Always exploring new technologies and experimenting with different tools and ideas.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shabanasamreen&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabanasamreen&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&area_color=6C63FF&hide_border=true&custom_title=Shabana%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 📌 My Interests
+
+<table align="center">
+<tr>
+<th>💡 Area</th>
+<th>🚀 Interest</th>
+</tr>
+<tr>
+<td>💻</td>
+<td>Software Development</td>
+</tr>
+<tr>
+<td>🐍</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>☕</td>
+<td>Java</td>
+</tr>
+<tr>
+<td>⚙️</td>
+<td>C / C++</td>
+</tr>
+<tr>
+<td>🌐</td>
+<td>Web Development</td>
+</tr>
+<tr>
+<td>📊</td>
+<td>Data Analysis</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td>Machine Learning</td>
+</tr>
+<tr>
+<td>🧠</td>
+<td>Problem Solving</td>
+</tr>
+<tr>
+<td>🗄️</td>
+<td>MySQL</td>
+</tr>
+<tr>
+<td>🐧</td>
+<td>Linux</td>
+</tr>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to learning, collaborating, and building something awesome! 🚀
+
+<br><br>
+
+<a href="mailto:shabanasamreen12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/shabanasamreen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+🌱 **Learn something new every day.**  
+💡 **Turn ideas into solutions.**  
+🧠 **Keep improving.**  
+🚀 **Build things that matter.**
+
+<br>
+
+> **"The best way to learn is to build."**
+
+</div>
+
+---
+
+## ⭐ Support My Work
+
+<div align="center">
+
+If you find my projects interesting, consider giving them a ⭐
+
+It really helps and motivates me to keep building! 💜
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:EC4899&height=140&section=footer" width="100%"/>
+
+### 👋 Thanks for visiting my profile!
+
+**Made with 💜 by Shabana Samreen**
+
+</div>
